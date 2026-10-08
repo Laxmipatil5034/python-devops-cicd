@@ -1,4 +1,3 @@
-# python-devops-cicd
 # Python DevOps CI/CD Project
 
 ## Overview
